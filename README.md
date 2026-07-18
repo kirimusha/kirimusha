@@ -14,9 +14,10 @@
 
 ---
 
-### Где меня найти
-
-- [GitHub](https://github.com/kirimusha)
+<h3 align="left">Свяжись со мной:</h3>
+<p align="left">
+<a href="https://github.com/kirimusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kirimusha" height="30" width="40" /></a>
+</p>
 
 ---
 
