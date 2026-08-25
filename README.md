@@ -1,19 +1,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-# Привет, я Киричек Мария!
-
-### Студент, начинающий исследователь в области машинного обучения
-
-Изучаю базы данных, **SQL**, продолжаю развиваться в ML.
-
-Открыта для сотрудничества в проектах, связанных с LLM и NLP. Также ищу наставничество и поддержку.
-
-Готова делиться опытом в области машинного обучения, анализа данных и работы с базами данных. Связаться со мной можно по электронной почте: **kirimusha@mail.ru**.
-
-Помимо программирования я умею стоять на голове. Веду блог в Telegram: **[https://t.me/kirimushroom](https://t.me/kirimushroom)**.
-
+# Hi, I am Kirichek Maria!
 ---
 
-<h3 align="left">Свяжись со мной:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://github.com/kirimusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kirimusha" height="30" width="40" /></a>
 </p>
