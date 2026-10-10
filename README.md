@@ -1,26 +1,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 # Hi, I am Kirichek Maria!
 ---
-
-<h3 align="left">Contact me:</h3>
-<p align="left">
-<a href="https://github.com/kirimusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kirimusha" height="30" width="40" /></a>
-</p>
-
----
-
-### Стек 
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
+I decided that previous description is not quite good, but I havent done the new one yet
 
 ---
 
