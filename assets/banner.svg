@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Maria Kirichek — Изучаю Data Science и NLP · СПбПУ">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="0.4">
+      <stop stop-color="#A84412"/>
+      <stop offset="1" stop-color="#F59A38"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <path d="M0 182 Q300 220 640 183 T1200 187 V220 H0Z" fill="#0d1117" opacity=".24"/>
+  <path d="M0 204 Q430 177 790 206 T1200 198 V220 H0Z" fill="#0d1117" opacity=".22"/>
+  <text x="600" y="103" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" fill="#ffffff">Maria Kirichek</text>
+  <text x="600" y="149" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#eeeaf6">Изучаю Data Science и NLP · СПбПУ</text>
+</svg>
