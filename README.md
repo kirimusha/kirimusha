@@ -9,6 +9,11 @@
 
 Я Мария, студент МОиАИС ВШТИИ СПбПУ.
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🧭 ML и NLP — проекты
 
 | Проект | Что внутри |
@@ -32,8 +37,5 @@
 </p>
 
 
-## ☕ Шутки
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
