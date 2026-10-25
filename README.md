@@ -7,11 +7,7 @@
   <a href="https://t.me/kirimushroom"><img src="https://img.shields.io/badge/Telegram-@kirimushroom-B95018?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @kirimushroom" /></a>
 </p>
 
----
-
-## 👋 Обо мне
-
-Привет! Я Мария, студент МОиАИС ВШТИИ СПбПУ.
+Я Мария, студент МОиАИС ВШТИИ СПбПУ.
 
 ## 🧭 ML и NLP — проекты
 
