@@ -7,25 +7,10 @@
   <a href="https://t.me/kirimushroom"><img src="https://img.shields.io/badge/Telegram-@kirimushroom-B95018?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @kirimushroom" /></a>
 </p>
 
-Я Мария, студент МОиАИС ВШТИИ СПбПУ.
+Hi there! I’m Maria, a Data Science student at SPbPU’s Higher School of AI Technologies.
+
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## 🧭 ML и NLP — проекты
-
-| Проект | Что внутри |
-| :--- | :--- |
-| [ru-en-transformer-nmt](https://github.com/kirimusha/ru-en-transformer-nmt) | Русско-английский переводчик на основе Transformer. |
-| [ANANKE_lang_model](https://github.com/kirimusha/ANANKE_lang_model) | Реализация Transformer для генерации текста и диалога на собственном корпусе сообщений. |
-| [ML-intensive-Yandex-Lyceum](https://github.com/kirimusha/ML-intensive-Yandex-Lyceum) | Учебные работы с ML-интенсива Яндекс Академии. |
-| [ML-tasks-for-Antonyan-David-aka-best-adapter-in-the-world](https://github.com/kirimusha/ML-tasks-for-Antonyan-David-aka-best-adapter-in-the-world) | Три учебные работы по курсу цифровой аналитики. |
-
-## 🗂 Другие проекты
-
-- [client_server_app_POLYTECH](https://github.com/kirimusha/client_server_app_POLYTECH) — клиент-серверное приложение на C++ для поиска кратчайшего пути алгоритмом Дейкстры. Сервер поддерживает параллельные подключения по TCP и UDP.
-- [A-guide-how-to-make-best-choices-in-life](https://github.com/kirimusha/A-guide-how-to-make-best-choices-in-life) — учебный проект на Python о принятии решений.
-
-
