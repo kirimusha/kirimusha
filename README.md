@@ -28,14 +28,4 @@
 - [client_server_app_POLYTECH](https://github.com/kirimusha/client_server_app_POLYTECH) — клиент-серверное приложение на C++ для поиска кратчайшего пути алгоритмом Дейкстры. Сервер поддерживает параллельные подключения по TCP и UDP.
 - [A-guide-how-to-make-best-choices-in-life](https://github.com/kirimusha/A-guide-how-to-make-best-choices-in-life) — учебный проект на Python о принятии решений.
 
-## 🛠 Технологии и инструменты
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-
-
 
