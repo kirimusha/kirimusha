@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Maria Kirichek · Изучаю Data Science и NLP · СПбПУ" width="100%" />
+  <img src="assets/banner.svg" alt="Maria Kirichek · enjoing Data Science and NLP · SPbPU" width="100%" />
 </p>
 
 <p align="center">
